@@ -1,0 +1,41 @@
+.bgcolor_noisywhite{
+    background: #EEEEEE;
+}
+.yellow{
+    background-color: yellow;
+}
+
+.size{
+    width: 351px;
+    height: 20px;
+}
+.box{
+    width: 410px;
+    height: 100px;
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.box2 {
+    width: 135px;
+    height: 130px;
+    background-color: #EEEEEE;
+    margin: 3px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.box3 {
+    width: 143px;
+    height: 130px;
+    background-color: #EEEEEE;
+    margin: 3px;
+    padding: 10px;
+    
+}
